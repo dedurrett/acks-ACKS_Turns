@@ -3,7 +3,7 @@
     "script": "ACKS_Turns.js",
     "version": "0.1",
     "previousversions": [],
-    "description": "Works as TurnManager, with a few changes. Does not auto cycle round. Prints reminder at top of round for action declaration. Meant to be used with Group Initiative Script.",
+    "description": "Work as TurnManager, with a few changes. Does not auto cycle round. Prints reminder at top of round for action declaration. Meant to be used with Group Initiative Script.",
     "authors": "Dave D.",
     "roll20userid": "76",
     "useroptions": [],
