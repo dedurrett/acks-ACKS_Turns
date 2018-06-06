@@ -9,6 +9,7 @@
 //Use Group Initative to roll and sort the tracker, then !TOT to highlight the token at the top of the list.
 //And on and on, when combat is over, !EOC
 
+//List of Roll20 user id's that should be considered a GM in regards to sending commands. (use !getmyid to obtain the id needed)
 var GmIdList = ["76"];                          // List of GM's (Used with RestrictGmEOT)
 var TurnOrderAgent = TurnOrderAgent || {};
 var tint_color_turn = '#FFFF00';				// Tint color for the current tokens turn
